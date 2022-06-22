@@ -6,3 +6,8 @@
     font-family: "jomolhari";
     src: url(../assets/font/Jomolhari/Jomolhari-Regular.ttf);
 }
+a, a:active, a:visited, a:link{
+    text-decoration: none;
+    display: inline-block;
+    color: inherit;
+}
